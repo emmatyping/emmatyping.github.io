@@ -8,16 +8,12 @@ There are several ways to contact me.
 
 If you prefer email, you can contact me at the address below:
 
-<a href="mailto:ethan@ethanhs.me"></a>
+<a href="mailto:emma@emmatyping.dev">emma@emmatyping.dev</a>
+
+## bluesky
+
+I am <a href="https://bsky.app/profile/emmatyping.dev">@emmatyping.dev</a> on bluesky!
 
 ## mastodon
 
-I am <a rel="me" href="https://hachyderm.io/@ethantyping">@ethantyping@hachyderm.io</a>. I check Mastodon daily, so this is a good place to reach me, if nothing else works.
-
-## gitter.im
-
-I am infrequently on gitter.im, I check it once every few months.
-
-## irc
-
-I am very infrequently on freenode IRC as ethanhs. If you want to chat and don't want to use Gitter, contact me through email or Mastodon.
+I am <a rel="me" href="https://hachyderm.io/@emmatyping">@emmatyping@hachyderm.io</a>. I don't check mastodon quite as much anymore, but if you message me I will see it.

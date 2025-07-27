@@ -20,6 +20,6 @@ With these criteria in hand, I then set up the apt repo with the CLI tools that 
 
 Anyway, if you are interested in using this apt repo, head on over to [https://apt.cli.rs](http://apt.cli.rs), I've written up the commands you need to get started using the apt repo.
 
-If you have suggestions for Rust CLI tools that should be included, please [open an issue on the github](https://github.com/ethanhs/apt.cli.rs/issues/new)! If a package doesn't build musl-linked Debian packages, consider opening an issue on that project to add it. However, please *do not* spam maintainers asking for these packages to be built. I unfortunately do not have time to contribute to the packaging of every great Rust CLI tool, but I can add them to the apt repo if they are packaged already!
+If you have suggestions for Rust CLI tools that should be included, please [open an issue on the github](https://github.com/emmatyping/apt.cli.rs/issues/new)! If a package doesn't build musl-linked Debian packages, consider opening an issue on that project to add it. However, please *do not* spam maintainers asking for these packages to be built. I unfortunately do not have time to contribute to the packaging of every great Rust CLI tool, but I can add them to the apt repo if they are packaged already!
 
 Anyway, hopefully someone else finds it useful!

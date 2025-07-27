@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://ethanhs.me"
+base_url = "https://emmatyping.dev"
 
-title = "Ethan Typing"
+title = "emmatyping"
 
-description = "Ethan's website and interblag"
+description = "Emma's website and interblag"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -29,16 +29,17 @@ highlight_theme = "visual-studio-dark"
 accent_color = "blue"
 background_color = "dark"
 
-logo_text = "Ethan's Blog"
+logo_text = "Emma's Blog"
 logo_home_link = "/"
 
-author = "Ethan Smith"
+author = "Emma Harper Smith"
 
 # Put all your custom variables here
 menu_items = [
     {url= "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/about/me", name = "About"},
     {url = "$BASE_URL/about/contact", name = "Contact"},
-    {url = "https://github.com/ethanhs", name = "Github", newtab = true},
-    {url = "https://hachyderm.io/@ethantyping", name = "Mastodon", newtab = true},
+    {url = "https://github.com/emmatyping", name = "Github", newtab = true},
+    {url = "https://hachyderm.io/@emmatyping", name = "Mastodon", newtab = true},
+    {url = "https://bsky.app/profile/emmatyping.dev", name = "BlueSky", newtab = true},
 ]

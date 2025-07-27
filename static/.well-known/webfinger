@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://sso.0xe.me/application/o/tailscale/.well-known/openid-configuration"
+      "href": "https://sso.0xe.me/application/o/tailscale/"
     }
   ]
 }

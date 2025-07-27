@@ -3,7 +3,7 @@ title = "Typycal - Generate type stubs from runtime type information"
 date = 2017-07-26
 +++
 
-EDIT: This project stalled and is no longer being worked on. You can find the sources [on my github](https://github.com/ethanhs/typycal). The original blog is below.
+EDIT: This project stalled and is no longer being worked on. You can find the sources [on my github](https://github.com/emmatyping/typycal). The original blog is below.
 
 Note: This blog post assumes basic familiarity with typing
 
